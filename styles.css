@@ -1,0 +1,130 @@
+Body {
+	font-family: 'Acme', sans-serif;
+	background: linear-gradient(#ffe45e, #7fc8f8);
+	background-size: cover;
+	text-align: center;
+	color: #ff6392;
+	text-shadow: 0 0 1px black;
+}
+
+H2 {
+	font-style: bold;
+	
+}
+
+.intro {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#thirty {
+	margin: 20px auto;
+	height: 300px;
+	width: 300px;
+	border: 5px solid #675762;
+	border-radius: 10px;
+	background-image: url("gifs/thirty.gif");
+	background-size: cover;
+}
+
+#flirty {
+	margin: 20px auto;
+	height: 300px;
+	width: 300px;
+	border: 5px solid #675762;
+	border-radius: 10px;
+	background-image: url("gifs/flirty.gif");
+	background-size: cover;
+}
+
+#thriving {
+	margin: 20px auto;
+	height: 300px;
+	width: 300px;
+	border: 5px solid #675762;
+	border-radius: 10px;
+	background-image: url("gifs/thriving.gif");
+	background-size: cover;
+	background-position: center;
+ 	background-repeat: no-repeat;
+	position: relative;
+}
+
+.hiding {
+	display: block;
+	justify-content: space-evenly;
+}
+
+#30-flirty-thriving {
+	display: block;
+}
+
+.door {
+	margin: 20px auto;
+	height: 350px;
+	width: 350px;
+	border: 5px solid #675762;
+	border-radius: 10px;
+	background-image: url("images/door-img.jpeg");
+	background-size: cover;
+}
+
+#door-sandra:hover {
+	background-image: url("images/sandra.jpg");
+}
+
+#door-leah:hover {
+	background-image: url("images/leah2.jpg");
+}
+
+#door-mattie:hover {
+	background-image: url("images/mattie.jpg");
+}
+
+#door-kate:hover {
+	background-image: url("images/kate.jpg");
+	background-size: cover;
+	background-position: center;
+ 	background-repeat: no-repeat;
+	position: relative;
+}
+
+#here {
+	margin-bottom: 10px;
+}
+
+.final-message {
+	margin-top: 0px;
+	padding: 40px;
+}
+
+
+.sponsor {
+	font-style: italic;
+	color: #675762;
+	text-shadow: 0 0 0 #675762;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
